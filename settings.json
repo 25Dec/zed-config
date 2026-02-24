@@ -1,0 +1,105 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "enable_language_server": true,
+  "agent": {
+    "model_parameters": []
+  },
+  "notification_panel": {
+    "button": false
+  },
+  "bottom_dock_layout": "contained",
+  "preview_tabs": {
+    
+  },
+  "search": {
+    "center_on_match": true
+  },
+  "inlay_hints": {
+    "enabled": false
+  },
+  "use_on_type_format": false,
+  "format_on_save": "off",
+  "indent_guides": {
+    
+  },
+  "minimap": {
+    "show": "auto"
+  },
+  "scrollbar": {
+    "show": "auto",
+    "axes": {
+      "horizontal": false,
+      "vertical": false
+    },
+    "cursors": false
+  },
+  "inline_code_actions": false,
+  "toolbar": {
+    "selections_menu": true,
+    "quick_actions": false,
+    "breadcrumbs": false
+  },
+  "collaboration_panel": {
+    "button": false
+  },
+  "disable_ai": true,
+  "tab_bar": {
+    "show_tab_bar_buttons": true,
+    "show_nav_history_buttons": false
+  },
+  "tabs": {
+    "file_icons": true,
+    "git_status": true
+  },
+  "debugger": {
+    "button": false
+  },
+  "project_panel": {
+    "scrollbar": {
+      "show": "auto"
+    },
+    "folder_icons": true,
+    "button": false
+  },
+  "status_bar": {
+    "active_language_button": false,
+    "cursor_position_button": false
+  },
+  "diagnostics": {
+    "inline": {
+      "enabled": true
+    },
+    "button": false
+  },
+  "colorize_brackets": true,
+  "sticky_scroll": {
+    "enabled": true
+  },
+  "cursor_blink": false,
+  "relative_line_numbers": "wrapped",
+  "icon_theme": {
+    "mode": "system",
+    "light": "Material Icon Theme",
+    "dark": "Material Icon Theme"
+  },
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "vim_mode": true,
+  "base_keymap": "VSCode",
+  "ui_font_size": 18.0,
+  "buffer_font_size": 18.0,
+  "theme": {
+    "mode": "dark",
+    "light": "Catppuccin Latte",
+    "dark": "Catppuccin Mocha",
+  },
+}
