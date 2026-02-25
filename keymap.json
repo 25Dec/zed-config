@@ -58,5 +58,17 @@
     "bindings": {
       "alt-p": "pane::TogglePinTab"
     }
+  },
+    {
+    "context": "Editor",
+    "bindings": {
+      "alt-k": "editor::LineUp"
+    }
+  },
+  {
+    "context": "Editor",
+    "bindings": {
+      "alt-j": "editor::LineDown"
+    }
   }
 ]
