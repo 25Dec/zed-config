@@ -7,6 +7,8 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
+  "prettier": {
+  },
   "outline_panel": {
     "indent_guides": {
       "show": "never"
@@ -37,7 +39,6 @@
   },
   "bottom_dock_layout": "contained",
   "preview_tabs": {
-
   },
   "search": {
     "center_on_match": true
@@ -48,10 +49,8 @@
   "use_on_type_format": false,
   "format_on_save": "off",
   "indent_guides": {
-
   },
   "minimap": {
-    
   },
   "scrollbar": {
     "show": "auto",
@@ -125,6 +124,7 @@
   "theme": {
     "mode": "dark",
     "light": "Ayu Light",
-    "dark": "Gruvbox Dark Hard",
+    "dark": "Ayu Mirage",
   },
 }
+
