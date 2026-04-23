@@ -9,7 +9,6 @@
 {
   "title_bar": {
     "show_menus": false,
-    "show_branch_icon": false
   },
   "vim": {
     "toggle_relative_line_numbers": true
@@ -49,9 +48,6 @@
   "agent": {
     "dock": "right",
     "model_parameters": []
-  },
-  "notification_panel": {
-    "button": false
   },
   "preview_tabs": {
     
