@@ -21,6 +21,7 @@
   "prettier": {
   },
   "outline_panel": {
+    "dock": "left",
     "indent_guides": {
       "show": "always"
     },
@@ -32,6 +33,7 @@
   "remove_trailing_whitespace_on_save": false,
   "icon_theme": "Material Icon Theme",
   "git_panel": {
+    "dock": "left",
     "show_count_badge": true,
     "file_icons": true,
     "tree_view": true,
@@ -45,6 +47,7 @@
   "buffer_font_family": "Intel One Mono",
   "enable_language_server": true,
   "agent": {
+    "dock": "right",
     "model_parameters": []
   },
   "notification_panel": {
@@ -84,6 +87,7 @@
     "breadcrumbs": false
   },
   "collaboration_panel": {
+    "dock": "left",
     "button": false
   },
   "disable_ai": true,
@@ -101,6 +105,7 @@
     "button": false
   },
   "project_panel": {
+    "dock": "left",
     "hide_root": false,
     "hide_hidden": false,
     "entry_spacing": "comfortable",
@@ -141,6 +146,6 @@
   "theme": {
     "mode": "dark",
     "light": "Ayu Light",
-    "dark": "Gruvbox Dark",
+    "dark": "Ayu Mirage",
   },
 }
